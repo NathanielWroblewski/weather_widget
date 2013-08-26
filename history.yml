@@ -1,0 +1,19 @@
+---
+valuation: |+
+  data: {"current":4,"last":70,"id":"valuation","updatedAt":1377489828}
+
+karma: |+
+  data: {"current":70725,"last":101351,"id":"karma","updatedAt":1377489828}
+
+synergy: |+
+  data: {"value":40,"id":"synergy","updatedAt":1377489828}
+
+convergence: |+
+  data: {"points":[{"x":68,"y":16},{"x":69,"y":26},{"x":70,"y":9},{"x":71,"y":30},{"x":72,"y":21},{"x":73,"y":7},{"x":74,"y":35},{"x":75,"y":49},{"x":76,"y":24},{"x":77,"y":8}],"id":"convergence","updatedAt":1377489828}
+
+buzzwords: |+
+  data: {"items":[{"label":"Leverage","value":9},{"label":"Exit strategy","value":8},{"label":"Streamlininess","value":8},{"label":"Pivoting","value":6},{"label":"Web 2.0","value":8},{"label":"Synergy","value":8},{"label":"Paradigm shift","value":8},{"label":"Enterprise","value":8},{"label":"Turn-key","value":4}],"id":"buzzwords","updatedAt":1377489828}
+
+forecast: |+
+  data: {"farenheit":"64&deg;F","summary":"Partly Cloudy","code":"116","id":"forecast","updatedAt":1377489824}
+
