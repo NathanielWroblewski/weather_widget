@@ -6,7 +6,7 @@ class Dashing.Forecast extends Dashing.Widget
       'color': 'white'
     @skycons.play()
 
-  ready: (data) ->
+  ready: ->
     # This is fired when the widget is done being rendered
  
   onData: (data) ->
