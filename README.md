@@ -41,7 +41,7 @@ Code
           'color': 'white'
         @skycons.play()
 
-      ready: (data) ->
+      ready: ->
 
       onData: (data) ->
         @setSkycon data.code
@@ -99,7 +99,7 @@ Code
         color: $light-color;
       }
       .more-info {
-          color: $light-color;
+        color: $light-color;
       }
       .updated-at {
         color: rgba(0, 0, 0, 0.3);
