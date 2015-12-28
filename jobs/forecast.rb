@@ -7,7 +7,7 @@ SCHEDULER.every '5m', :first_in => 0 do |job|
   zip_code = "94105"                # your zip code here
 
   uri = URI.parse(
-  	'http://api.worldweatheronline.com/free/v1/weather.ashx' +
+  	'http://api.worldweatheronline.com/free/v2/weather.ashx' +
   	"?key=#{world_weather_online_api_key}&q=#{zip_code}" +
   	'&format=json'
   )
